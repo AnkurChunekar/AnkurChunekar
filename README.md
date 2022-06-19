@@ -16,7 +16,7 @@ Hi 👋 I'm Ankur Chunekar
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>  
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/chakra-ui.png" width="36" height="36" alt="Redux"  /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" /></a>
-</p>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> </p>
 
 ## My Latest Blogs
 - [Event Bubbling Vs Capturing](https://ankurchunekar.hashnode.dev/event-bubbling-vs-capturing-in-javascript)
